@@ -16,6 +16,9 @@
     width: 180px;
     margin-left: 140px;
 }
+.nav-logo a{
+    text-decoration: none;
+}
 
 .logo{
     /* background-image: url("logo.png"); */
@@ -143,6 +146,7 @@ img{
     
 }
 .heading{
+    padding-top: 3rem;
     text-align: center;
     /* margin-top: 10%; */
 }
@@ -155,7 +159,7 @@ img{
     padding: 10px 20px;  
 }
 .margin-t{
-    margin-top: 12rem;
+    margin-top: 5rem;
 }
 .box{
     margin-top: 10px;
